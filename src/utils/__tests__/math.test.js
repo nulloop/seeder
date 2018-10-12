@@ -1,3 +1,5 @@
+// @flow
+
 import { sum } from '~/utils/math'
 
 describe('sample test group', () => {
