@@ -8,8 +8,7 @@
     "dev-webapp": "parcel ./src/apps/webapp/index.html",
     "build-webapp": "yarn clean; parcel build ./src/apps/webapp/index.html",
     "test": "jest",
-    "flow": "flow",
-    "flow-typed": "flow-typed"
+    "flow": "flow"
   },
   "alias": {
     "~/": "./src/"
